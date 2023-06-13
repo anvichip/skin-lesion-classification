@@ -1,5 +1,6 @@
 # Skin-Lesion-Classification
-Trained on the MNIST: HAM100 Dataset. This is a Conv2D sequential model to classify the images into the 7 pigmented lesions:
+Trained on the MNIST: HAM100 Dataset. It has an accuracy of 98% on the training data and a validation accuracy of 96%. 
+This is a Conv2D sequential model to classify the images into the 7 pigmented lesions:
 1. Actinic keratoses and intraepithelial carcinoma / Bowen's disease (akiec)
 2. basal cell carcinoma (bcc)
 3. benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses, bkl)
