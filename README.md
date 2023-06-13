@@ -1,4 +1,4 @@
-# skin-lesion-classification
+# Skin-Lesion-Classification
 Trained on the MNIST: HAM100 Dataset. This is a Conv2D sequential model to classify the images into the 7 pigmented lesions:
 1. Actinic keratoses and intraepithelial carcinoma / Bowen's disease (akiec)
 2. basal cell carcinoma (bcc)
@@ -9,5 +9,5 @@ Trained on the MNIST: HAM100 Dataset. This is a Conv2D sequential model to class
 7. vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, vasc)
 
 ## How to Run
-Open the notebook in Google Colab. 
-Upload your kaggle.json file to google colab to download dataset
+1. Open the notebook in Google Colab. 
+2. Upload your kaggle.json file (containing your token) to google colab to download dataset.
